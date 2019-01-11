@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "author-wdi22",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "author-wdi22",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "author-wdi22",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
